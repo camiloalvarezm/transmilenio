@@ -1,0 +1,158 @@
+{
+  "transmilenio": {
+    "troncal": {
+      "row": [
+        {
+          "id": "3",
+          "nombre": "Caracas",
+          "letra": "A",
+          "id_color": "1",
+          "longitud": "123",
+          "estado": "1"
+        },
+        {
+          "id": "4",
+          "nombre": "Caracas",
+          "letra": "A",
+          "id_color": "1",
+          "longitud": "15",
+          "estado": "0"
+        },
+        {
+          "id": "5",
+          "nombre": "Norte",
+          "letra": "B",
+          "id_color": "1",
+          "longitud": "15",
+          "estado": "1"
+        },
+        {
+          "id": "6",
+          "nombre": "Sur",
+          "letra": "H",
+          "id_color": "1",
+          "longitud": "15",
+          "estado": "1"
+        },
+        {
+          "id": "7",
+          "nombre": "Americas",
+          "letra": "I",
+          "id_color": "1",
+          "longitud": "15",
+          "estado": "0"
+        },
+        {
+          "id": "8",
+          "nombre": "Caracas",
+          "letra": "A",
+          "id_color": "1",
+          "longitud": "15",
+          "estado": "0"
+        },
+        {
+          "id": "9",
+          "nombre": "Norte",
+          "letra": "B",
+          "id_color": "1",
+          "longitud": "15",
+          "estado": "1"
+        },
+        {
+          "id": "10",
+          "nombre": "Sur",
+          "letra": "H",
+          "id_color": "1",
+          "longitud": "15",
+          "estado": "1"
+        },
+        {
+          "id": "11",
+          "nombre": "Americas",
+          "letra": "I",
+          "id_color": "1",
+          "longitud": "15",
+          "estado": "0"
+        },
+        {
+          "id": "13",
+          "nombre": "Caracas",
+          "letra": "A",
+          "id_color": "1",
+          "longitud": "15",
+          "estado": "0"
+        },
+        {
+          "id": "14",
+          "nombre": "Norte",
+          "letra": "B",
+          "id_color": "1",
+          "longitud": "15",
+          "estado": "1"
+        },
+        {
+          "id": "15",
+          "nombre": "Sur",
+          "letra": "H",
+          "id_color": "1",
+          "longitud": "15",
+          "estado": "1"
+        },
+        {
+          "id": "16",
+          "nombre": "Americas",
+          "letra": "I",
+          "id_color": "1",
+          "longitud": "15",
+          "estado": "0"
+        },
+        {
+          "id": "17",
+          "nombre": "Caracas",
+          "letra": "A",
+          "id_color": "1",
+          "longitud": "15",
+          "estado": "0"
+        },
+        {
+          "id": "18",
+          "nombre": "Norte",
+          "letra": "B",
+          "id_color": "1",
+          "longitud": "15",
+          "estado": "1"
+        },
+        {
+          "id": "19",
+          "nombre": "Sur",
+          "letra": "H",
+          "id_color": "1",
+          "longitud": "15",
+          "estado": "1"
+        }
+      ]
+    },
+    "color": {
+      "row": [
+        {
+          "id": "1",
+          "color_R": "0",
+          "color_G": "0",
+          "color_B": "0"
+        },
+        {
+          "id": "2",
+          "color_R": "0",
+          "color_G": "0",
+          "color_B": "0"
+        },
+        {
+          "id": "3",
+          "color_R": "000",
+          "color_G": "000",
+          "color_B": "000"
+        }
+      ]
+    }
+  }
+}
